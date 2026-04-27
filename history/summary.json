@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.rustunnel.com.ico",
     "slug": "platform-api",
     "status": "down",
-    "uptime": "9.49%",
-    "uptimeDay": "9.49%",
-    "uptimeWeek": "9.49%",
-    "uptimeMonth": "9.49%",
-    "uptimeYear": "9.49%",
+    "uptime": "4.90%",
+    "uptimeDay": "4.90%",
+    "uptimeWeek": "4.90%",
+    "uptimeMonth": "4.90%",
+    "uptimeYear": "4.90%",
     "time": 628,
     "timeDay": 628,
     "timeWeek": 628,
@@ -157,16 +157,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/synthetic-ap.rustunnel.com.ico",
     "slug": "ap-edge-synthetic-tunnel",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "1.23%",
+    "uptimeDay": "1.23%",
+    "uptimeWeek": "1.23%",
+    "uptimeMonth": "1.23%",
+    "uptimeYear": "1.23%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-27": 0
+    }
   }
 ]
