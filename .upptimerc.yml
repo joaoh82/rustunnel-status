@@ -45,17 +45,17 @@ sites:
       - 200
 
   - name: EU edge — synthetic tunnel
-    url: https://synthetic-eu.rustunnel.com
+    url: https://synthetic.eu.edge.rustunnel.com
     expectedStatusCodes:
       - 200
 
   - name: US edge — synthetic tunnel
-    url: https://synthetic-us.rustunnel.com
+    url: https://synthetic.us.edge.rustunnel.com
     expectedStatusCodes:
       - 200
 
   - name: AP edge — synthetic tunnel
-    url: https://synthetic-ap.rustunnel.com
+    url: https://synthetic.ap.edge.rustunnel.com
     expectedStatusCodes:
       - 200
 
