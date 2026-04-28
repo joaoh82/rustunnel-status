@@ -82,7 +82,7 @@ status-website:
     - title: rustunnel.com
       href: https://rustunnel.com
     - title: Docs
-      href: https://docs.rustunnel.com
+      href: https://rustunnel.com/docs
   theme: dark
 
 i18n:
