@@ -49,15 +49,17 @@ This is an **[Upptime](https://upptime.js.org/) instance** — there is no build
 
 ## Knowledge Base
 
-This project shares its knowledge base with its parent (rustunnel). Do **not** create a separate `Projects/rustunnel-status/` folder — entries about this child go in the parent's vault.
+This project shares its knowledge base with its parent (rustunnel). Do **not** create a separate `projects/rustunnel-status/` folder — entries about this child go in the parent's folder.
 
-### Project-specific — `~/Documents/josh-obsidian-synced/Projects/rustunnel/`
+Project knowledge lives in the private repo **`joaoh82/projects-knowledge`**, cloned at `~/projects/projects-knowledge` (clone to the same path in cloud environments). Follow the repo workflow described in the parent `CLAUDE.md`: pull before writing, work only in the repo working tree (never via the Obsidian vault path), read only this project's folder, and commit + push at session end if anything changed (this notes repo is exempt from the never-touch-`main` rule).
+
+### Project-specific — `~/projects/projects-knowledge/projects/rustunnel/`
 
 - **Code (this child):** `/Users/joaoh82/projects/rustunnel/rustunnel-status`
 - **Code (parent meta-repo):** `/Users/joaoh82/projects/rustunnel`
-- **Context (read first):** `~/Documents/josh-obsidian-synced/Projects/rustunnel/context.md`
-- **Notes (running journal):** `~/Documents/josh-obsidian-synced/Projects/rustunnel/notes.md`
-- **Project wiki:** `~/Documents/josh-obsidian-synced/Projects/rustunnel/wiki/`
+- **Context (read first):** `~/projects/projects-knowledge/projects/rustunnel/context.md`
+- **Notes (running journal):** `~/projects/projects-knowledge/projects/rustunnel/notes.md`
+- **Project wiki:** `~/projects/projects-knowledge/projects/rustunnel/wiki/`
 
 **How to use each:**
 
@@ -71,9 +73,9 @@ This project shares its knowledge base with its parent (rustunnel). Do **not** c
 - A decision, incident, or working note → append a dated entry to the parent's `notes.md`.
 - Reusable reference material (setup steps, credential locations, architecture) → new/updated file in the parent's `wiki/`.
 
-### Cross-project knowledge — `~/Documents/josh-obsidian-synced/vault/`
+### Cross-project knowledge — `~/Documents/josh-obsidian-synced/vault/` (Obsidian machines only)
 
 - **General wiki:** `~/Documents/josh-obsidian-synced/vault/wiki/` — start at `_master-index.md`, then drill into the relevant topic's `_index.md`.
 - **Raw dumps:** `~/Documents/josh-obsidian-synced/vault/raw/` — drop unprocessed research here as `YYYY-MM-DD-{slug}.md`.
 
-Read the general wiki when the question isn't specific to this project. Drop raw research or imported notes into `vault/raw/` so it's captured even before it's distilled.
+Read the general wiki when the question isn't specific to this project. Drop raw research or imported notes into `vault/raw/` so it's captured even before it's distilled. This vault has not moved to the knowledge repo — it only exists on machines with the Obsidian vault; if the path doesn't exist, skip it.
