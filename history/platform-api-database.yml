@@ -1,7 +1,7 @@
 url: https://api.rustunnel.com/health/db
 status: up
 code: 200
-responseTime: 671
-lastUpdated: 2026-07-27T23:20:53.137Z
+responseTime: 536
+lastUpdated: 2026-07-28T23:18:53.918Z
 startTime: 2026-04-27T22:20:43.479Z
 generator: Upptime <https://github.com/upptime/upptime>
