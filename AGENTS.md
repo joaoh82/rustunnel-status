@@ -2,9 +2,9 @@
 
 > **`CLAUDE.md` in this directory is the source of truth.** Read it in full
 > before doing any work here — it contains the working guidelines (git/branch
-> rules, knowledge base, task management, reserved ports, engineering
-> defaults). If anything in this file conflicts with `CLAUDE.md`, `CLAUDE.md`
-> wins.
+> rules, knowledge base, task management, pull-request registration, reserved
+> ports, engineering defaults). If anything in this file conflicts with
+> `CLAUDE.md`, `CLAUDE.md` wins.
 
 ## Harness-specific notes
 

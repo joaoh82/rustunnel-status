@@ -6,7 +6,7 @@ This is the **public Upptime-powered status page** for rustunnel — `status.rus
 
 ## Parent project
 
-**Parent project:** [rustunnel](/Users/joaoh82/projects/rustunnel/CLAUDE.md) — read for shared dev commands, env vars, and cross-service architecture.
+**Parent project:** [rustunnel](/Users/joaoh82/projects/rustunnel/CLAUDE.md) — read for shared dev commands, env vars, cross-service architecture, **and the global working guidelines** (never-touch-main, task management, pull-request registration, reserved ports, engineering defaults). Those guideline sections live only in the parent `CLAUDE.md` — this file does not duplicate them.
 
 ### How I fit in
 
