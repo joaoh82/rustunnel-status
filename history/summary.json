@@ -161,9 +161,9 @@
     "url": "https://synthetic.ap.edge.rustunnel.com",
     "icon": "https://icons.duckduckgo.com/ip3/synthetic.ap.edge.rustunnel.com.ico",
     "slug": "ap-edge-synthetic-tunnel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.42%",
@@ -176,7 +176,8 @@
       "2026-04-28": 975,
       "2026-04-27": 99,
       "2026-05-18": 76,
-      "2026-05-22": 127
+      "2026-05-22": 127,
+      "2026-09-27": 0
     }
   }
 ]
